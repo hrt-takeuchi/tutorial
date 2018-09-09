@@ -2,7 +2,12 @@
 - vagrantで仮想環境を作って実施
 - vagrant box package も入っているのでデカイです
 
+
 ### 開発環境まで
+以下からvagrant boxのダウンロード
+https://drive.google.com/open?id=1ACR75vY_Tf4GaCKSH1OLjv8JHOnQula8
+
+その後
 ```
 git clone git@github.com:hrt-takeuchi/react_rails.git
 vagrant box add centos77 package.box
